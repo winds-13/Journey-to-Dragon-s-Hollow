@@ -1,4 +1,5 @@
-# Journey-to-Dragon-s-Hollow
+# Journey-to-Dragon-s-Hollow (C++, OOP, Encapsulation, Inheritance, Polymorphism, UML)
+
 Two heroes make their way across Dragon’s Hollow (moving from the left-hand side to the right-hand side), fights guards on the way, reach to the rightmost of the map without dying.
 
 Initially,
